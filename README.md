@@ -1,4 +1,4 @@
-# uglifyjs 实现JS文件混淆压缩
+# uglifyjs 实现JS文件混淆压缩（暂未支持ES6语法）
 ## 步骤如下：
 ### 1、自行搭建node环境，搭建成功后，查看npm 、 node版本信息。如果如下图所示，即表示安装成功！
 ![image](https://github.com/Happy-LYZ/uglifyjs/blob/master/src/assets/img/npm.jpg)
