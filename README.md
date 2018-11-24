@@ -23,19 +23,19 @@
 
 ### 3、执行runNode命令，通过node指令实现JS压缩，将【原JS文件】压缩为【原JS文件.min.js】：
 
-![image](https://github.com/Happy-LYZ/uglifyjs/blob/master/src/assets/img/runNode.jpg)
-
  ```node
  npm run runNode;  
   ```
+![image](https://github.com/Happy-LYZ/uglifyjs/blob/master/src/assets/img/runNode.jpg)
+
 
 
 ### 4、执行runBat命令，通过bat脚本实现JS压缩，将【原JS文件】压缩后覆盖【原JS文件】：
 
-![image](https://github.com/Happy-LYZ/uglifyjs/blob/master/src/assets/img/runBat.jpg)
-
  ```node
  npm run runBat;  
   ```
+![image](https://github.com/Happy-LYZ/uglifyjs/blob/master/src/assets/img/runBat.jpg)
+
 
 # 以上，祝顺利！
