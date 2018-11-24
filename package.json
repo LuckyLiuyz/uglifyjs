@@ -1,13 +1,10 @@
 {
-  "name": "new",
+  "name": "uglifyjs",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "src/index.js",
+  "description": "uglifyjs 实现JS文件混淆压缩,该工具是针对于老老老...式js代码，所以还未支持ES6语法。",
+  "keywords": ["uglifyjs", "压缩", "混淆", "JS"],
+  "main": "",
   "dependencies": {
-    "react": "16.5.2",
-    "react-dom": "16.5.2",
-    "react-scripts": "2.0.3"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,9 +12,5 @@
     "runNode": "node ./src/cmd/runNode.js"
   },
   "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
   ]
 }
